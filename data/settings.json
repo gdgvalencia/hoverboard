@@ -1,7 +1,7 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+    "name": "GDG Valencia",
+    "twitter": "gdgvalencia",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
   },
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest19",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [

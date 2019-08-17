@@ -1,16 +1,16 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://vlc-dev-fest-2019.firebaseapp.com/",
+  "analytics": "",
   "prefix": "/",
   "firebase": {
-    "appId": "",
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "apiKey": "AIzaSyBZmRvMPWvPl5jQZzPsUNRGApzG6L_EIzo",
+    "authDomain": "vlc-dev-fest-2019.firebaseapp.com",
+    "databaseURL": "https://vlc-dev-fest-2019.firebaseio.com",
+    "projectId": "vlc-dev-fest-2019",
+    "storageBucket": "vlc-dev-fest-2019.appspot.com",
+    "messagingSenderId": "53363175326",
+    "appId": "1:53363175326:web:ad0ce2c226057661"
   },
   "googleMapApiKey": ""
 }
