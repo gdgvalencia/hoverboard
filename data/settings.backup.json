@@ -2,7 +2,7 @@
   "organizer": {
     "name": "GDG Valencia",
     "twitter": "gdgvalencia",
-    "blog": "http://gdgvalencia.es/",
+    "blog": "https://medium.com/gdg-lviv",
     "url": "http://gdgvalencia.es/"
   },
   "startDate": "2019-11-08T15:00:00+03:00",
@@ -38,6 +38,11 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -49,17 +54,42 @@
       },
       "fontColor": "#FFF"
     },
+    "blog": {
+      "title": "Blog",
+      "metaDescription": "Read stories from our team",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "speakers": {
+      "title": "Speakers",
+      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "previousSpeakers": {
+      "title": "Previous Speakers",
+      "metaDescription": "Check who was with us last years",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
     "schedule": {
-      "title": "Agenda",
-      "metaDescription": "Organizate para no perderte nada del evento",
+      "title": "Schedule",
+      "metaDescription": "Choose your sessions to visit",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Equipo",
-      "metaDescription": "Más información sobre los organizadores",
+      "title": "Team",
+      "metaDescription": "Get more info about organizers",
       "background": {
         "color": "#fff"
       },
@@ -67,7 +97,7 @@
     },
     "faq": {
       "title": "FAQs",
-      "metaDescription": "Encuentra la respuesta aquí!",
+      "metaDescription": "Find you answer right here!",
       "background": {
         "color": "#fff"
       },
@@ -83,21 +113,21 @@
     }
   },
   "location": {
-    "label": "Ubicación",
-    "name": "Mercado Colón Valencia, España",
-    "city": "Valencia",
-    "short": "Valencia, España",
-    "address": "Mercado Colón Valencia, España",
+    "label": "Location",
+    "name": "Planeta kino",
+    "city": "Lviv",
+    "short": "Lviv, Ukraine",
+    "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {
-      "latitude": 39.4688691,
-      "longitude": -0.3708342,
+      "latitude": 49.809841,
+      "longitude": 23.972805,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 39,
-      "longitude": 0
+      "latitude": 48,
+      "longitude": 8
     },
-    "description": "La dirección definitiva está pendiente de confirmación. Subscribete y te informaremos cuando esté confirmado"
+    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
   },
   "mediaQueries": {
     "xs": {
@@ -128,6 +158,14 @@
       {
         "name": "twitter",
         "url": "https://twitter.com/gdgvalencia"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/devfestukraine"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       }
     ],
     "share": [

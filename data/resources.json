@@ -1,31 +1,31 @@
 {
-  "title": "GDG Valencia Devfest 2019",
+  "title": "Devfest 2019 GDG Valencia",
   "description": "Be a hero. Be a GDG!",
-  "image": "images/social-share.jpg",
+  "image": "images/social-share.png",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "8 de Noviembre 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "share": "Compartir",
+  "followOur": "Entérate de todo en nuestra",
+  "followUs": "Síguenos",
+  "emailUs": "Escríbenos",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Consigue tu entrada",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
+  "offlineMessage": "Puedes continuar offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
-  "position": "Position",
-  "country": "Country",
+  "newVersionAvailable": "Hay una nueva versión disponible de la web.",
+  "refresh": "Recargar",
+  "position": "Posición",
+  "country": "País",
   "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
-    "blog": "Blog"
+    "blog": "Web"
   },
   "mySchedule": {
     "title": "My Schedule",
@@ -33,11 +33,11 @@
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Sobre nosotros",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Valencia",
+          "url": "http://gdgvalencia.es",
           "newTab": true
         },
         {
@@ -46,39 +46,34 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Conoce al Equipo",
+          "url": "http://gdgvalencia.es/quienes-somos/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Eventos anteriores",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "Google I/0 Extended 2019",
+          "url": "https://www.meetup.com/es-ES/GDGValencia/events/260564525/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "IWD 2019 Women Techmakers",
+          "url": "https://www.meetup.com/es-ES/GDGValencia/events/258502929/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "Google Hash Code 2019",
+          "url": "https://www.meetup.com/es-ES/GDGValencia/events/258623258/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Event Resources",
+      "title": "Enlaces del evento",
       "links": [
         {
           "name": "Partnership Proposition",
@@ -207,7 +202,7 @@
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Ubicación"
   },
   "subscribeBlock": {
     "callToAction": {
