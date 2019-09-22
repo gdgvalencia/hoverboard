@@ -106,35 +106,13 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Lo que necesita saber, antes de preguntar.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-      },
-      "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
-      }
-    },
-    "statisticsBlock": {
-      "attendees": {
-        "label": "Attendees",
-        "number": "900"
-      },
-      "days": {
-        "label": "Days",
-        "number": "2"
-      },
-      "sessions": {
-        "label": "Sessions",
-        "number": "50"
-      },
-      "tracks": {
-        "label": "Tracks",
-        "number": "4"
+        "description": "DevFest organizado por GDG Valencia reúne a los expertos de clase mundial en tecnologías Android, Firebase, Google Cloud Platform, Google Assistant, Flutter, machine learning con TensorFlow y web.",
+        "label": "Saber más",
+        "link": "https://devfest.withgoogle.com/",
+        "newTab": true
       }
     }
   },
@@ -194,8 +172,8 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "Las Naves",
+    "description": "Una descripción del espacio para poner algunas imágnes",
     "callToAction": {
       "label": "See all photos",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
@@ -222,7 +200,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google es conocido en todo el mundo. Todo el mundo usa el buscador, viaja con maps y se comunica con gmail. Para los usuarios normales, son servicios que simplemente funcionan, pero no para nosotros. Los desarrolladores ven mucho más: APIs, problemas de escalabilidad, stack tecnológicos complejos, etc. Y de eso se trata GDG.<br><br>Google Developers Group (GDG) Valencia es una comunidad abierta y voluntaria que crea proyectos emocionantes y comparte experiencias sobre las tecnologías de Google con pasión.<br><br> Nuestro objetivo es organizar un espacio para conectar a los mejores expertos de la industria con la audiencia para impulsar el desarrollo de TI."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -254,18 +232,18 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizador",
+        "description": "GDG Valencia organiza el evento con la ayuda de Google España.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "¿Qué es GDG?",
+        "description": "Google Developers Group (GDG) - es una comunidad abierta y voluntaria que crea proyectos emocionantes y comparte experiencias sobre las tecnologías de Google con pasión.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Saber más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }

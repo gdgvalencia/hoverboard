@@ -32,7 +32,7 @@
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Agenda"
     },
     {
       "route": "team",
