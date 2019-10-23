@@ -74,20 +74,20 @@
   },
   "location": {
     "label": "Ubicación",
-    "name": "Valencia, España",
+    "name": "GoHub",
     "city": "Valencia",
-    "short": "Valencia, España",
-    "address": "Valencia, España",
+    "short": "GoHub Valencia, España",
+    "address": "Carrer d'Alvaro de Bazan, 10, 46010 Valencia",
     "pointer": {
-      "latitude": 39.4688691,
-      "longitude": -0.3708342,
-      "zoom": 5
+      "latitude": 39.475326,
+      "longitude": -0.3670687,
+      "zoom": 15
     },
     "mapCenter": {
-      "latitude": 39,
-      "longitude": 0
+      "latitude": 39.475326,
+      "longitude": -0.3670687
     },
-    "description": "La dirección definitiva está pendiente de confirmación. Subscribete y te informaremos cuando esté confirmado"
+    "description": "GoHub Valencia"
   },
   "mediaQueries": {
     "xs": {
