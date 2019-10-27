@@ -145,20 +145,20 @@
   "speakersBlock": {
     "title": "Rockstar speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Ver todos",
       "link": "/speakers/"
     }
   },
   "previousSpeakersBlock": {
     "title": "Previous speakers",
     "callToAction": {
-      "label": "View all",
+      "label": "Ver todos",
       "link": "/previous-speakers/"
     }
   },
   "galleryBlock": {
     "title": "El espacio",
-    "description": "¿Aún no conoces GoHub? Aquí puedes ver algunas imágenes del espacio donde tendrá lugar el DevFest.",
+    "description": "El evento se celebrará en el ágora de GoHub, un espacio para 150 personas donde podremos disfrutar de una tarde llena de tecnología.",
     "callToAction": {
       "label": "See all photos",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
