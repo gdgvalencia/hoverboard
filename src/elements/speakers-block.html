@@ -112,10 +112,6 @@
           grid-template-columns: repeat(3, 1fr);
         }
 
-        .speaker:last-of-type {
-          display: none;
-        }
-
         .badges {
           left: calc(50% + 32px);
         }
@@ -129,13 +125,9 @@
         }
       }
 
-      @media (min-width: 1024px) {
+      @media (min-width: 1200px) {
         .speakers-wrapper {
-          grid-template-columns: repeat(4, 1fr);
-        }
-
-        .speaker:last-of-type {
-          display: block;
+          grid-template-columns: repeat(5, 1fr);
         }
       }
 
@@ -237,7 +229,7 @@
         const filteredSpeakers = this.speakers
             .filter((speaker) => speaker.featured);
         const randomSpeakers = this.randomOrder(filteredSpeakers.length ? filteredSpeakers : speakers);
-        this.set('featuredSpeakers', randomSpeakers.slice(0, 4));
+        this.set('featuredSpeakers', randomSpeakers.slice(0, 5));
       }
     }
 
