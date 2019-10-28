@@ -143,7 +143,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Ponentes",
     "callToAction": {
       "label": "Ver todos",
       "link": "/speakers/"
@@ -194,7 +194,7 @@
     "contentLevel": "Nivel",
     "viewPresentation": "View presentation",
     "viewVideo": "View video",
-    "speakers": "Speakers"
+    "speakers": "Ponentes"
   },
   "speakerDetails": {
     "sessions": "Sessions"
