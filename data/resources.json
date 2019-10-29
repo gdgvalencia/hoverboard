@@ -2,7 +2,7 @@
   "title": "Devfest 2019 | GDG Valencia",
   "description": "8 de Noviembre 2019",
   "image": "images/social-share.png",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "event, gdg, gde, devfest, google, programming, machine learning, IA, Valencia, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "8 de Noviembre",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Compartir",
@@ -11,7 +11,7 @@
   "emailUs": "Escríbenos",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "¡Apúntate ahora!",
+  "buyTicket": "¡Apúntate!",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -97,11 +97,11 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "Lo que necesita saber, antes de preguntar.",
+    "title": "¿Qué es el DevFest en Valencia?",
     "callToAction": {
       "featuredSessions": {
-        "description": "DevFest organizado por GDG Valencia reúne a los expertos de clase mundial en tecnologías Android, Firebase, Google Cloud Platform, Google Assistant, Flutter, machine learning con TensorFlow y web.",
-        "label": "Saber más",
+        "description": "Durante el año organizamos eventos pequeños. No queríamos perdernos la oportunidad de celebrar el DevFest, un evento que celebran todas las comunidades GDG repartidas por el mundo. Este es el primer DevFest en Valencia y hemos reunido a expertos en tecnologías Kotlin, Kubernetes, Google Cloud Platform, machine learning y Agile con los que aprenderemos. Pasaos por la agenda y la sección de los ponentes para conocerlos, estamos muy ilusionados y tenemos muchas ganas de que los disfrutéis."
+        "label": "Web oficial",
         "link": "https://devfest.withgoogle.com/",
         "newTab": true
       }
@@ -145,7 +145,7 @@
   "speakersBlock": {
     "title": "Ponentes",
     "callToAction": {
-      "label": "Saber más",
+      "label": "Conócelos",
       "link": "/speakers/"
     }
   },
@@ -158,7 +158,7 @@
   },
   "galleryBlock": {
     "title": "El espacio",
-    "description": "El evento se celebrará en el ágora de GoHub, un espacio para 150 personas donde podremos disfrutar de una tarde llena de tecnología.",
+    "description": "El evento se celebrará en el ágora de GoHub, un espacio para 150 personas donde disfrutaremos de una tarde llena de tecnología.",
     "callToAction": {
       "label": "See all photos",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
@@ -185,7 +185,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google es conocido en todo el mundo. Todo el mundo usa el buscador, viaja con maps y se comunica con gmail. Para los usuarios normales, son servicios que simplemente funcionan, pero no para nosotros. Los desarrolladores ven mucho más: APIs, problemas de escalabilidad, stack tecnológicos complejos, etc. Y de eso se trata GDG.<br><br>Google Developers Group (GDG) Valencia es una comunidad abierta y voluntaria que crea proyectos emocionantes y comparte experiencias sobre las tecnologías de Google con pasión.<br><br> Nuestro objetivo es organizar un espacio para conectar a los mejores expertos de la industria con la audiencia para impulsar el desarrollo de TI."
+    "description": "GDG Valencia, una asociación sin ánimo de lucro que promueve el aprendizaje de la tecnología en comunidad. Durante el año organizamos eventos con ponentes expertos en tecnologías de Google pero también nos gusta ampliar el espectro de charlas porque nuestro interés es extender el amor por la programación en comunidad. En Valencia hay muchas comunidades alrededor de la tecnología desde hace muchos años y estamos muy contentos de formar parte de este ambiente tan dimámico."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -226,7 +226,7 @@
       },
       {
         "title": "¿Qué es GDG?",
-        "description": "Google Developers Group (GDG) - es una comunidad abierta y voluntaria que crea proyectos emocionantes y comparte experiencias sobre las tecnologías de Google con pasión.",
+        "description": "Google Developers Group (GDG) - somos una comunidad abierta y voluntaria que organiza eventos y comparte experiencias sobre las tecnologías de Google con mucha pasión.",
         "callToAction": {
           "label": "Saber más",
           "link": "https://developers.google.com/groups/",
