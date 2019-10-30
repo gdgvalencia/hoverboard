@@ -81,13 +81,8 @@
           "newTab": true
         },
         {
-          "name": "Ser sponsor",
-          "url": "https://forms.gle/VYdkMfiWeFnFhK1B6",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
+          "name": "CoC",
+          "url": "/cod/",
           "newTab": false
         }
       ]
@@ -100,7 +95,7 @@
     "title": "¿Qué es el DevFest en Valencia?",
     "callToAction": {
       "featuredSessions": {
-        "description": "Durante el año organizamos eventos pequeños. No queríamos perdernos la oportunidad de celebrar el DevFest, un evento que celebran todas las comunidades GDG repartidas por el mundo. Este es el primer DevFest en Valencia y hemos reunido a expertos en tecnologías Kotlin, Kubernetes, Google Cloud Platform, machine learning y Agile con los que aprenderemos. Pasaos por la agenda y la sección de los ponentes para conocerlos, estamos muy ilusionados y tenemos muchas ganas de que los disfrutéis."
+        "description": "Durante el año organizamos eventos pequeños. No queríamos perdernos la oportunidad de celebrar el DevFest, un evento que celebran todas las comunidades GDG repartidas por el mundo. Este es el primer DevFest en Valencia y hemos reunido a expertos en tecnologías Kotlin, Kubernetes, Google Cloud Platform, machine learning y Agile con los que aprenderemos. Pasaos por la agenda y la sección de los ponentes para conocerlos, estamos muy ilusionados y tenemos muchas ganas de que los disfrutéis.",
         "label": "Web oficial",
         "link": "https://devfest.withgoogle.com/",
         "newTab": true
