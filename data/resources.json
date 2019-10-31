@@ -23,7 +23,7 @@
   "country": "País",
   "time": "Time",
   "faq": "/data/faq.md",
-  "cod": "/data/cod.md",
+  "coc": "/data/coc.md",
   "footer": {
     "blog": "Web"
   },
@@ -81,8 +81,8 @@
           "newTab": true
         },
         {
-          "name": "CoC",
-          "url": "/cod/",
+          "name": "Código de Conducta",
+          "url": "/coc/",
           "newTab": false
         }
       ]
